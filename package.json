@@ -1,16 +1,16 @@
 {
-"name": "winba2022",
-"theme": "winba2022",
-"version": "8.4.10",
-"description": "winba2022 สมัครสมาชิกเว็บไซต์พนันเว็บตรง คนเล่นเยอะ ให้เครดิตฟรี",
-"keywords": [
-"winba2022",
-"winba2022 เครดิตฟรี",
-"winba2022 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/winba2022",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "winba2022",
+  "theme": "winba2022",
+  "version": "8.5.0",
+  "description": "winba2022 สมัครสมาชิกเว็บไซต์พนันเว็บตรง คนเล่นเยอะ ให้เครดิตฟรี",
+  "keywords": [
+    "winba2022",
+    "winba2022 เครดิตฟรี",
+    "winba2022 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/winba2022",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
